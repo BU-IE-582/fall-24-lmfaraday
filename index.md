@@ -13,3 +13,10 @@ This homework leverages sports forecasting to explore real-time market dynamics,
 
 - [Report](Homework 2/report.html)
 - [Code](https://github.com/BU-IE-582/fall-24-lmfaraday/blob/main/Homework%202/code.ipynb)
+
+## Project
+
+This project focuses on developing a betting strategy for soccer match outcomes, emphasizing multi-class classification and real-time decision-making. By leveraging decision trees, random forests, and XGBoost, it predicts match results (home win, draw, or away win) using live betting odds and game dynamics. The analysis explores odds behavior, market biases, and the impact of game events, combining statistical insights with machine learning to maximize accuracy and return. A detailed report presents the methodologies, findings, and actionable strategies for effective sports forecasting.
+
+- [Report](Project/report.html)
+- [Code]()
